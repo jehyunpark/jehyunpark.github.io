@@ -25,27 +25,26 @@
       </a> -->
 
       <div class="trigger">
+        <!-- home -->
+        <a href="{{ site.baseurl }}/">Home</a>
+        <!-- menu -->
         {% for my_page in site.pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
-      </div>
-
-      <div class="social">
-        <ul class="social-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
+        <!-- github -->
+        {% if site.github_username %}
+          <a href="http://github.com/{{ site.github_username }}">Github</a>
+        {% endif %}
+        <!-- twitter -->
+        {% if site.twitter_username %}
+          <a href="http://twitter.com/{{ site.twitter_username }}">Twitter</a>
+        {% endif %}
+        <!-- contact -->
+        {% if site.email %}
+          <a href="mailto:{{ site.email }}">Contact</a>
+        {% endif %}
       </div>
     </nav>
 
