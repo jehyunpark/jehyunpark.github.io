@@ -11,30 +11,29 @@
 }
 
 .site-title {
-    font-size: 28px;
+    font-size: 30px;
     font-weight: 300;
-    line-height: 30px;
+    line-height: 28px;
     // letter-spacing: -1px;
     margin-bottom: 0;
-    text-align: left;
+    text-align: center;
 
     .profile-img {
       float: left;
-      margin-right: 30px;
-      width: 90px;
+      margin-right: 10px;
+      width: 80px;
     }
 
     .site-title-list {
       list-style: none;
 
-      .name-kr {
+      .name-en {
         margin-top: 20px;
-        margin-bottom: 5px;
+        margin-bottom: 10px;
       }
 
-      .name-en {
-        font-size: 16px;
-        margin-bottom: -5px;
+      .name-kr {
+        font-size: 20px;
       }
 
       .description {
@@ -44,20 +43,24 @@
 
     &,
     &:visited {
+        // color: $text-color;
         color: $grey-color-dark;
     }
 }
 
+.site-menu {
+  font-size: 20px;
+  text-align: center;
+  line-height: 24px;
+    > a {
+      margin-right: 10px;
+    }
+}
 .site-nav {
     // float: right;
     text-align: center;
     line-height: 30px;
 
-    .trigger {
-      > a {
-        margin-right: 10px;
-      }
-    }
     .menu-icon {
         display: none;
     }
