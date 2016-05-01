@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    // border-top: 5px solid $grey-color-dark;
+    // border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -13,10 +13,32 @@
 .site-title {
     font-size: 26px;
     font-weight: 300;
-    line-height: 56px;
-    letter-spacing: -1px;
+    line-height: 30px;
+    // letter-spacing: -1px;
     margin-bottom: 0;
-    float: left;
+    text-align: left;
+
+    .profile-img {
+      float: left;
+      margin-right: 30px;
+      width: 90px;
+    }
+
+    .site-title-list {
+      list-style: none;
+
+      .name-kr {
+        margin-top: 20px;
+      }
+
+      .name-en {
+        font-size: 18px;
+      }
+
+      .description {
+        font-size: 15px;
+      }
+    }
 
     &,
     &:visited {
@@ -25,11 +47,21 @@
 }
 
 .site-nav {
-    float: right;
+    // float: right;
+    text-align: center;
     line-height: 56px;
 
     .menu-icon {
         display: none;
+
+      }
+    .social{
+      .social-list {
+        list-style: none;
+        > li {
+          display: inline;
+        }
+      }
     }
 
     .page-link {
@@ -91,8 +123,6 @@
         }
     }
 }
-
-
 
 /**
  * Site footer
