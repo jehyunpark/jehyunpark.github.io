@@ -200,6 +200,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    font-size: $large-font-size;
 }
 
 .page-heading {
@@ -209,7 +210,6 @@
 .post-list {
     margin-left: 0;
     list-style: none;
-
     > li {
         margin-bottom: $spacing-unit;
     }

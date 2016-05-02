@@ -162,6 +162,7 @@ pre {
     margin-left: auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
+    list-style: none;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
