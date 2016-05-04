@@ -54,10 +54,18 @@ sudo gem update --system
 ## Install jekyll
 
 ### 1. Install jekyll gem
+
 ```shell
 rvmsudo gem install jekyll
 ```
 
+## Run jekyll
+
+``` shell
+jekyll new jehyunpark.github.io
+cd jehyunpark.github.io
+jekyll serve --watch
+```
 
 
 [Download RubyGems]: https://rubygems.org/pages/download
