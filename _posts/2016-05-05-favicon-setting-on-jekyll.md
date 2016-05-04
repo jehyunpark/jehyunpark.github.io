@@ -2,7 +2,6 @@
 layout: post
 title: Favicon setting on jekyll
 ---
-
 #### 1. head.html 에 아래의 코드를 추가한다.
 
 ``` html

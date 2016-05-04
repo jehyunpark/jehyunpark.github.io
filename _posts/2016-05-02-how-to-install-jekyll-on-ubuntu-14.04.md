@@ -64,7 +64,7 @@ rvmsudo gem install jekyll
 ``` shell
 jekyll new jehyunpark.github.io
 cd jehyunpark.github.io
-jekyll serve --watch
+jekyll serve
 ```
 
 
