@@ -11,5 +11,5 @@ title: Favicon setting on jekyll
 #### 2. root 경로에 favicon으로 사용할 favicon.png파일을 위치시킨다.
 
 ``` shell
-/blog_path/favicon.png
+/jehyunpark.github.io/favicon.png
 ```
