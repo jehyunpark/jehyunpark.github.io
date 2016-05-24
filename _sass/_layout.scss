@@ -133,7 +133,7 @@
    color: $grey-color;
    font-size: 15px;
  }
- 
+
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
@@ -221,10 +221,14 @@
     }
 }
 
-// .post-meta {
-//     font-size: $small-font-size;
-//     color: $grey-color;
-// }
+.post-meta {
+    font-size: $large-font-size;
+    color: $grey-color;
+}
+
+.post-subject {
+    font-size: $large-font-size;
+}
 
 .post-link {
     display: block;
@@ -253,8 +257,16 @@
 .post-content {
     margin-bottom: $spacing-unit;
 
+    h1 {
+        font-size: 36px;
+
+        @include media-query($on-laptop) {
+            font-size: 36px;
+        }
+    }
+
     h2 {
-        font-size: 32px;
+        font-size: 28px;
 
         @include media-query($on-laptop) {
             font-size: 28px;
@@ -262,10 +274,10 @@
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 24px;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 24px;
         }
     }
 
@@ -273,7 +285,7 @@
         font-size: 20px;
 
         @include media-query($on-laptop) {
-            font-size: 18px;
+            font-size: 20px;
         }
     }
 }
