@@ -1,40 +1,14 @@
 <header class="site-header">
 
   <div class="wrapper">
+    <span class="site-title">
+      <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+    </span>
 
-    <div class="site-title">
-      <!-- <img class="profile-img" src="{{ site.baseurl }}/images/profile.jpg"> -->
-      <ul class="site-title-list">
-        <li class="name-en">{{ site.title }}</li>
-        <li class="name-kr">{{ site.author.name.kr }}</li>
-        <li class="description">{{ site.description }}</li>
-      </ul>
-      <!-- </div> -->
-    </a>
-
-    <div class="site-menu">
-      <!-- home -->
+    <span class="site-menu">
       <a href="{{ site.baseurl }}/">Home</a>
-      <!-- menu -->
-      {% for my_page in site.pages %}
-        {% if my_page.title %}
-          <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-        {% endif %}
-      {% endfor %}
-      <!-- github -->
-      {% if site.github_username %}
-        <a href="http://github.com/{{ site.github_username }}">Github</a>
-      {% endif %}
-      <!-- twitter -->
-      {% if site.twitter_username %}
-        <a href="http://twitter.com/{{ site.twitter_username }}">Twitter</a>
-      {% endif %}
-      <!-- contact -->
-      {% if site.email %}
-        <a href="mailto:{{ site.email }}">Email</a>
-      {% endif %}
-    </div>
-
+      <a href="{{ site.baseurl }}/about/">About</a>
+    </span>
   </div>
-
+  
 </header>
