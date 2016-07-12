@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Github에서 프로젝트 시작하기
+category: Github
 ---
 
 ## Local에 프로젝트 설정

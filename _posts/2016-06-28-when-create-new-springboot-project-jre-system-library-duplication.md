@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "SpringBoot로 새로 프로젝트를 시작할 때 발생하는 JRE System Library 중복 문제"
+category: SpringBoot
 ---
 ## When Create New SpringBoot Project, JRE System Library Duplication.
 

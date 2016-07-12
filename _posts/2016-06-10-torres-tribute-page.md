@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Tribute Page - Torres"
+category: Bootstrap
 ---
 
 # [Tribute Page - Torres](http://codepen.io/jehyunpark/full/GZLPKZ)

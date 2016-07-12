@@ -236,24 +236,28 @@
     margin-left: 0;
     list-style: none;
     > li {
-        margin-bottom: $spacing-unit;
+        margin-bottom: 20px;
     }
 }
 
 .post-meta {
     font-size: $large-font-size;
     color: $grey-color;
-}
 
+  }
 .post-subject {
-    font-size: $large-font-size;
+    font-size: 26px;
     color: black;
-    margin-left: 20px;
 }
 
 .post-link {
     display: block;
     font-size: 24px;
+}
+
+.post-category {
+  color: #E23843;
+  margin-left: 10px;
 }
 
 
