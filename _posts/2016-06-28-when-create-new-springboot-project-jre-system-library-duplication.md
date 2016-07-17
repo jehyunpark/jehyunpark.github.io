@@ -71,7 +71,7 @@ Total time: 0.981 secs
 - containers 추가하는것 주석처리하니까 중복문제는 해결됐다. 그런데..`build.gradle`을 수정하는 방법은 맞지 않는 것 같은 느낌.
 
 ## 3. STS(Eclipse)에서 Gradle 옵션 설정
-Gradle Project를 Import할 때와 Create할 때 중복 현상의 발생 현상이 다른 것 같으니 STS에서 옵션을 살펴보자.
+Gradle Project를 Import할 때는 발생하지 않고 Create 할때만 발생하므로 STS에서 옵션을 살펴보자.
 
 - Gradle(STS) Context menu 들어가보니 `Enable Dependency Management`가 있다. 클릭!
 ![gradle-context-menu](/images/2016-06-28/gradle-context-menu.png)
