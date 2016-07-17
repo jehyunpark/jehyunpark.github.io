@@ -73,12 +73,14 @@ Total time: 0.981 secs
 ## 3. STS(Eclipse)에서 Gradle 옵션 설정
 Gradle Project를 Import할 때는 발생하지 않고 Create 할때만 발생하므로 STS에서 옵션을 살펴보자.
 
+- Gradle 프로젝트를 Import하는 경우를 확인해보니 Default로 `Enable dependency management`가 체크되어 있다.  
+![gradle-project-import](/images/2016-06-28/gradle-project-import.png)
+
 - Gradle(STS) Context menu 들어가보니 `Enable Dependency Management`가 있다. 클릭!
 ![gradle-context-menu](/images/2016-06-28/gradle-context-menu.png)
+
 - 다시 `Refresh All` 해보자. 오?! 중복이 사라졌다.  
 ![gradle-defendency](/images/2016-06-28/gradle-defendency.png)
-- Gradle 프로젝트를 Import하는 경우를 확인해보니 Default로 `Enable dependency management`가 체크되어 있다.
-![gradle-project-import](/images/2016-06-28/gradle-project-import.png)
 
 
 # 해결책
