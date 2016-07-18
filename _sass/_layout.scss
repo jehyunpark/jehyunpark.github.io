@@ -17,7 +17,7 @@
 
     @include media-query($on-palm) {
       background: none;
-      background-color: #031C21;
+      background-color: #333;
       min-height: 60px;
     }
 }
@@ -98,6 +98,29 @@
       }
     }
 }
+
+.nav-collapse {
+  @media screen and (min-width: 200px) and (max-width: 600px) {
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 0;
+    background-color: white;
+    border-color: #e7e7e7;
+    list-style: none;
+
+    > a {
+      font-size: 18px;
+      color: $grey-color-dark;
+      text-decoration: none;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      line-height: 40px;
+    }
+  }
+  @media screen and (min-width:600px){
+    display: none;
+  }
+}
+
 .site-nav {
     // float: right;
     text-align: center;
