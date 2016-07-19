@@ -130,10 +130,11 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
+    //font-size: 16px;
+    font-family: 'Inconsolata', "Helvetica Neue", Helvetica, Arial, sans-serif;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: #f7f7f7;
 }
 
 code {

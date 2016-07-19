@@ -2,11 +2,13 @@
  * Syntax highlighting styles
  */
 .highlight {
+    font-size: 16px;
+    font-family: 'Inconsolata', "Helvetica Neue", Helvetica, Arial, sans-serif;
     background: #fff;
     @extend %vertical-rhythm;
 
     .highlighter-rouge & {
-      background: #eef;
+      background: #f7f7f7;
     }
 
     .c     { color: #998; font-style: italic } // Comment
