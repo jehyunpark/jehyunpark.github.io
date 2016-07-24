@@ -8,10 +8,10 @@ layout: default
     {% for post in site.posts %}
       <li>
         <div>
-          <span class="post-meta">{{ post.date | date: "%Y/%m/%d" }}</span><span class="post-category">{{ post.category }}</span>
+          <a href="{{ post.url | prepend: site.baseurl }}"><span class="post-subject">{{ post.title }}</span></a>
         </div>
         <div>
-          <a href="{{ post.url | prepend: site.baseurl }}"><span class="post-subject">{{ post.title }}</span></a>
+          <span class="post-meta">{{ post.date | date: "%Y/%m/%d" }}</span><span class="post-category">{{ post.category }}</span>
         </div>
       </li>
     {% endfor %}
