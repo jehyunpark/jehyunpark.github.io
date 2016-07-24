@@ -335,6 +335,9 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    > p {
+      margin-bottom: 0;
+    }
 }
 
 .post-title {
@@ -343,7 +346,7 @@
     line-height: 1;
 
     @include media-query($on-laptop) {
-        font-size: 36px;
+        font-size: 26px;
     }
 }
 
@@ -352,13 +355,17 @@
     font-size: 20px;
     word-break: keep-all;
 
+    @include media-query($on-laptop) {
+        font-size: 16px;
+    }
+
     h1 {
         font-size: 36px;
         border-bottom: 1px solid $grey-color-light;
         margin-top: 50px;
 
         @include media-query($on-laptop) {
-            font-size: 36px;
+            font-size: 28px;
         }
     }
 
@@ -368,7 +375,7 @@
         margin-top: 30px;
 
         @include media-query($on-laptop) {
-            font-size: 28px;
+            font-size: 24px;
         }
     }
 
@@ -377,7 +384,7 @@
         margin-top: 30px;
 
         @include media-query($on-laptop) {
-            font-size: 24px;
+            font-size: 20px;
         }
     }
 
@@ -385,7 +392,7 @@
         font-size: 20px;
 
         @include media-query($on-laptop) {
-            font-size: 20px;
+            font-size: 16px;
         }
     }
 
