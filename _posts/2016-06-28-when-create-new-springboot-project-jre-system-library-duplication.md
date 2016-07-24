@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SpringBoot로 새로 프로젝트를 시작할 때 발생하는 JRE System Library 중복 문제"
+title:  "새로운 SpringBoot 프로젝트의 JRE System Library 중복 문제"
 category: SpringBoot
 ---
 # 문제 발견
