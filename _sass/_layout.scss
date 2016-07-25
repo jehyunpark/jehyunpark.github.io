@@ -26,7 +26,9 @@
     font-size: 30px;
     font-weight: normal;
     line-height: 60px;
-
+    @include media-query($on-laptop) {
+        font-size: 24px;
+    }
     > a {
       font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
       color: white;
@@ -73,8 +75,8 @@
     }
     .menu-icon {
       display: block;
-      width: 25px;
-      margin: 3px 0 0 0;
+      width: 20px;
+      margin: 7px 0 0 0;
     }
   }
   @media screen and (min-width:600px){
@@ -215,7 +217,7 @@
 }
 .copyright {
   text-align: center;
-  margin-top: -20px;
+  margin-top: -15px;
   color: $grey-color;
   font-size: 15px;
  }
@@ -224,6 +226,9 @@
   background-color: $grey-color-light;
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+  @include media-query($on-laptop) {
+      padding: $spacing-unit/2 0;
+  }
 }
 
 .footer-heading {
@@ -311,11 +316,16 @@
 .post-meta {
     font-size: $large-font-size;
     color: $grey-color;
-
+    @include media-query($on-laptop) {
+        font-size: 16px;
+    }
   }
 .post-subject {
     font-size: 26px;
     color: black;
+    @include media-query($on-laptop) {
+        font-size: 18px;
+    }
 }
 
 .post-link {
@@ -326,6 +336,9 @@
 .post-category {
   color: #E23843;
   margin-left: 10px;
+  @include media-query($on-laptop) {
+      font-size: 16px;
+  }
 }
 
 
