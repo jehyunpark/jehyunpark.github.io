@@ -5,7 +5,10 @@ category: Book
 ---
 
 # **아웃풋 독서법**
+- <img src="http://image.kyobobook.co.kr/images/book/xlarge/051/x9791158150051.jpg" alt="아웃풋 독서법" height="300"/>
 - 이세훈, 북포스
+
+
 
 # **왜 이 책을 선택했나?**
 - 독서법 관련 책을 읽다보면 독서록과 같이 글을 쓰라는 얘기가 많이 나온다.
