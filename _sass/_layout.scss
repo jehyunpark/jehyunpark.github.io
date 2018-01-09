@@ -344,16 +344,18 @@
 /**
  * Categories
  */
+.tag-item {
+  margin-left: 10px;
+}
+
 .tag-group-title {
   color: #E23843;
-  margin-left: 10px;
   @include media-query($on-laptop) {
      font-size: 16px;
   }
 }
 
 .tag-item-date {
-  margin-left: 10px;
   color: $grey-color;
   font-size: 16px;
   @include media-query($on-laptop) {
