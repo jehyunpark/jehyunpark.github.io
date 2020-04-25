@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "츠바키 문구점"
-category: Book
+title: 츠바키 문구점
+author: jehyunpark
+category: [Book, Review]
+tags: [novel]
 ---
 
 # 츠바키 문구점 / 오가와 이토 / 예담

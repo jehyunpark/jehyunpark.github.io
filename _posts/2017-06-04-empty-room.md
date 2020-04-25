@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "아무것도 없는 방에 살고 싶다"
-category: Book
+title: 아무것도 없는 방에 살고 싶다
+author: jehyunpark
+category: [Book, Review]
+tags: [minimalist, minimal life, minimalism]
 ---
 
 # 아무것도 없는 방에 살고 싶다

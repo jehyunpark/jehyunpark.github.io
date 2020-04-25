@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "아웃풋 독서법"
-category: Book
+title: 아웃풋 독서법
+author: jehyunpark
+category: [Book, Review]
+tags: [reading skill]
 ---
 
 # **아웃풋 독서법**

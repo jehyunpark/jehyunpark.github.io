@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "1시간에 1권 퀀텀 독서법"
-category: Book
+title: 1시간에 1권 퀀텀 독서법
+author: jehyunpark
+category: [Book, Review]
+tags: [reading skill]
 ---
 
 # 1시간에 1권 퀀텀 독서법 / 김병완 / 청림출판

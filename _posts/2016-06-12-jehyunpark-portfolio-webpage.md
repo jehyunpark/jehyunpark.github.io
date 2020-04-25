@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Jehyun Park's Portfolio"
-category: Bootstrap
+title: Jehyun Park's Portfolio
+author: jehyunpark
+category: [Dev, Bootstrap]
+tags: [portfolio, freecodecamp, codepen]
 ---
 
 # [Portfolio - Webpage](http://codepen.io/jehyunpark/full/NNQKGX)

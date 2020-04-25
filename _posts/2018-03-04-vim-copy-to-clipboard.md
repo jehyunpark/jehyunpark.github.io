@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "Vim에디터에서 내용을 클립보드로 복사하기"
-category: Vim
+title: Vim에디터에서 내용을 클립보드로 복사하기
+author: jehyunpark
+category: [Dev, Vim]
+tags: [vim]
 ---
 
 # Vim에디터에서 내용을 클립보드로 복사하기

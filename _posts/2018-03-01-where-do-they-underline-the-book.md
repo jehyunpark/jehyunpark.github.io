@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "그들은 책 어디에 밑줄을 긋는가"
-category: Book
+title: 그들은 책 어디에 밑줄을 긋는가
+author: jehyunpark
+category: [Book, Review]
+tags: [reading skill, self help]
 ---
 
 # 그들은 책 어디에 밑줄을 긋는가 / 마도이 에이지 / 비즈니스북스 

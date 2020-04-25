@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "살인자의 기억법"
-category: Book
+title: 살인자의 기억법
+author: jehyunpark
+category: [Book, Review]
+tags: [novel]
 ---
 
 # 살인자의 기억법 / 김영하 / 문학동네

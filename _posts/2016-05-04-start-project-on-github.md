@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Github에서 프로젝트 시작하기
-category: Github
+author: jehyunpark
+category: [Dev, GitHub]
+tags: [github, git]
 ---
 
 ## Local에 프로젝트 설정

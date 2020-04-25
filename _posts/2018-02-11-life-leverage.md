@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "레버리지"
-category: Book
+title: 레버리지
+author: jehyunpark
+category: [Book, Review]
+tags: [economy, money management]
 ---
 
 # 레버리지 / 롭 무어 / 다산 3.0

@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "세계 최고의 인재들은 왜 기본에 집중할까"
-category: Book
+title: 세계 최고의 인재들은 왜 기본에 집중할까
+author: jehyunpark
+category: [Book, Review]
+tags: [self help]
 ---
 
 # 세계 최고의 인재들은 왜 기본에 집중할까 / 도쓰카 다카마사 / 비즈니스북스

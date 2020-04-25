@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Tribute Page - Torres"
-category: Bootstrap
+title: Tribute Page - Torres
+author: jehyunpark
+category: [Dev, Bootstrap]
+tags: [torres, freecodecamp, codepen, bootstrap]
 ---
 
 # [Tribute Page - Torres](http://codepen.io/jehyunpark/full/GZLPKZ)

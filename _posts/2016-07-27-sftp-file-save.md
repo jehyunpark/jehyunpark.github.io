@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Linux 원격지의 파일을 로컬에 저장하기"
-category: Linux
+title: Linux 원격지의 파일을 로컬에 저장하기
+author: jehyunpark
+category: [Dev, Linux]
+tags: [linux]
 ---
 
 - sftp 접속

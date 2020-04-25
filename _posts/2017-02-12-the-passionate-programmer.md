@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "프로그래머 열정을 말하다."
-category: Book
+title: 프로그래머 열정을 말하다.
+author: jehyunpark
+category: [Book, Review]
+tags: [career, developer, programmer]
 ---
 
 - 프로그래머가 커리어를 발전시키는 것에 도움을 주는 책.

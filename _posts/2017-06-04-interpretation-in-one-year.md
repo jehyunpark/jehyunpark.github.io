@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "9등급 꼴찌, 1년 만에 통역사 된 비법"
-category: Book
+title: 9등급 꼴찌, 1년 만에 통역사 된 비법
+author: jehyunpark
+category: [Book, Review]
+tags: [english]
 ---
 
 # 9등급 꼴찌, 1년 만에 통역사 된 비법

@@ -1,7 +1,8 @@
 ---
-layout: post
 title: How to install Jekyll on Ubuntu 14.04
-category: Jekyll
+author: jehyunpark
+category: [Dev, Jekyll]
+tags: [jekyll, ruby, ubuntu]
 ---
 ## Install Ruby
 
@@ -9,12 +10,12 @@ category: Jekyll
 ### 1. Install RVM  
 
 ``` shell
-\curl -L https://get.rvm.io | bash -s stable  
+curl -L https://get.rvm.io | bash -s stable  
 ```
 ``` shell
 //If you have an error  
 gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
-\curl -L https://get.rvm.io | bash -s stable
+curl -L https://get.rvm.io | bash -s stable
 ```
 
 ### 2. Apply RVM

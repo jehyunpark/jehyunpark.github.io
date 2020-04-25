@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "어휘력이 교양이다"
-category: Book
+title: 어휘력이 교양이다
+author: jehyunpark
+category: [Book, Review]
+tags: [self help]
 ---
 
 # 어휘력이 교양이다 / 사이토 다카시 / 한빛비즈

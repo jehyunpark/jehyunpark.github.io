@@ -1,22 +1,12 @@
 ---
-layout: default
+layout: home
+breadcrumb:
+  -
+    label: Posts
+
+# Index page
+# v2.0
+# https://github.com/cotes2020/jekyll-theme-chirpy
+# © 2017-2019 Cotes Chung
+# MIT License
 ---
-
-<div class="home">
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <div>
-          <a href="{{ post.url | prepend: site.baseurl }}"><span class="post-subject">{{ post.title }}</span></a>
-        </div>
-        <div>
-          <span class="post-meta">{{ post.date | date: "%Y/%m/%d" }}</span><span class="post-category">{{ post.category }}</span>
-        </div>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
-
-</div>

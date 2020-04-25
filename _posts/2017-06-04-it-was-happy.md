@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "버리고 비웠더니 행복이 찾아왔다"
-category: Book
+title: 버리고 비웠더니 행복이 찾아왔다
+author: jehyunpark
+category: [Book, Review]
+tags: [minimalist, minimal life, minimalism]
 ---
 
 # 버리고 비웠더니 행복이 찾아왔다

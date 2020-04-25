@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "서점을 둘러싼 희망"
-category: Book
+title: 서점을 둘러싼 희망
+author: jehyunpark
+category: [Book, Review]
+tags: [bookstore]
 ---
 
 # 서점을 둘러싼 희망 / 문희언 지음 / 여름의숲

@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "플루언트 포에버"
-category: Book
+title: 플루언트 포에버
+author: jehyunpark
+category: [Book, Review]
+tags: [english]
 ---
 
 # 플루언트 포에버 / 게이브리얼 와이너 / 민음사

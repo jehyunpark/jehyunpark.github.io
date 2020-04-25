@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "1만 권 독서법"
-category: Book
+title: 1만 권 독서법
+author: jehyunpark
+category: [Book, Review]
+tags: [reading skill]
 ---
 
 # 1만 권 독서법 / 인나미 아쓰시 / 위즈덤하우스

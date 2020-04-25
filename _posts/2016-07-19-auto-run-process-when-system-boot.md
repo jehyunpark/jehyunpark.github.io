@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Linux 시스템 부팅 시, 서비스 자동 실행하기"
-category: Linux
+title: Linux 시스템 부팅 시, 서비스 자동 실행하기
+author: jehyunpark
+category: [Dev, Linux]
+tags: [linux]
 ---
 
 - `start.sh` 파일에 실행할 명령어 작성

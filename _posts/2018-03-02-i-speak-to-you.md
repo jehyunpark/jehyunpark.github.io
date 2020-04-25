@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "당신에게 말을 건다"
-category: Book
+title: 당신에게 말을 건다
+author: jehyunpark
+category: [Book, Review]
+tags: [essay, bookstore, sokcho]
 ---
 
 # 당신에게 말을 건다 / 김영건 지음 / 알마

@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "조각가"
-category: Book
+title: 조각가
+author: jehyunpark
+category: [Book, Review]
+tags: [comic]
 ---
 
 # 조각가 / 스콧 맥클라우드 / 미메시스

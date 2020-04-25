@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "소프트웨어 객체의 생애주기"
-category: Book
+title: 소프트웨어 객체의 생애주기
+author: jehyunpark
+category: [Book, Review]
+tags: [software, ai, sf, tedchiang]
 ---
 
 # 소프트웨어 객체의 생애주기 / 테드 창 / 북스피어
