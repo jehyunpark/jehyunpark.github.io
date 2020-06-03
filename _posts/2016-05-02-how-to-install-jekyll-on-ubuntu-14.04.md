@@ -1,8 +1,8 @@
 ---
-title: How to install Jekyll on Ubuntu 14.04
-author: jehyunpark
-category: [Dev, Jekyll]
-tags: [jekyll, ruby, ubuntu]
+layout: post
+title: "How to install Jekyll on Ubuntu 14.04"
+excerpt: ""
+categories: [jekyll]
 ---
 ## Install Ruby
 

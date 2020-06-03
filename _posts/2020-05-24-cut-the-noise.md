@@ -1,8 +1,8 @@
 ---
-title: 내 안의 소음을 줄여라
-author: jehyunpark
-category: [Book, Review]
-tags: [self help]
+layout: post
+title: "내 안의 소음을 줄여라"
+excerpt: "내 안의 소음을 줄여라 / 크리스 헬더 / 이터"
+categories: [book]
 ---
 
 # 내 안의 소음을 줄여라 / 크리스 헬더 / 이터
@@ -55,5 +55,3 @@ tags: [self help]
 > - 나는 누구이고, 무엇을 나타낼까?
 > 
 > - 나 자신에 대해 명확하게 알아야 어려운 결정도 보다 쉽게 할 수 있다. 핵심 믿음과 정체성이 행동을 결정한다는 사실을 잊지 말자. 나의 정체성을 찾으면 놀라운 결과를 얻을 수 있다.
-
-- 

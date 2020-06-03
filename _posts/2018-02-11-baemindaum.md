@@ -1,8 +1,8 @@
 ---
-title: 배민다움
-author: jehyunpark
-category: [Book, Review]
-tags: [marketing]
+layout: post
+title: "배민다움"
+excerpt: "배민다움 / 홍성태 / 북스톤"
+categories: [book]
 ---
 
 # 배민다움 / 홍성태 / 북스톤

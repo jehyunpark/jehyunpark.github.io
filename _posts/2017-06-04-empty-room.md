@@ -1,15 +1,14 @@
 ---
-title: 아무것도 없는 방에 살고 싶다
-author: jehyunpark
-category: [Book, Review]
-tags: [minimalist, minimal life, minimalism]
+layout: post
+title: "아무것도 없는 방에 살고 싶다"
+excerpt: "아무것도 없는 방에 살고 싶다 / 미니멀 라이프 연구회 / 샘터"
+categories: [book]
 ---
 
-# 아무것도 없는 방에 살고 싶다
+# 아무것도 없는 방에 살고 싶다 / 미니멀 라이프 연구회 / 샘터
 > 물건을 버리고 삶을 선택한 10인의 미니멀 라이프 도전기
 
 - <img src="http://image.kyobobook.co.kr/images/book/xlarge/243/x9788946420243.jpg" height="300"/>
-- 미니멀 라이프 연구회 지음 / 김윤경 옮김 / 샘터(샘터사) / 2016년 03월 08일 출간
 
 # 왜 이 책을 선택했나?
 - 나는 생각이 많은 편인데 물건이 많아지다보니 물건들에 소모되는 생각이 많은 것 같다. 이 소모값을 좀 줄여 생산적인 곳에 쓰고 싶다.

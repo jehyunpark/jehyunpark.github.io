@@ -1,8 +1,8 @@
 ---
-title: 나는 뻔뻔하게 살기로 했다
-author: jehyunpark
-category: [Book, Review]
-tags: [self help]
+layout: post
+title: "나는 뻔뻔하게 살기로 했다"
+excerpt: "나는 뻔뻔하게 살기로 했다 / 데이비드 시버리 / 홍익출판사"
+categories: [book]
 ---
 
 # 나는 뻔뻔하게 살기로 했다 / 데이비드 시버리 / 홍익출판사

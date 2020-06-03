@@ -1,15 +1,14 @@
 ---
-title: 버리고 비웠더니 행복이 찾아왔다
-author: jehyunpark
-category: [Book, Review]
-tags: [minimalist, minimal life, minimalism]
+layout: post
+title: "버리고 비웠더니 행복이 찾아왔다"
+excerpt: "버리고 비웠더니 행복이 찾아왔다 / 야마구치 세이코 / 나라원"
+categories: [book]
 ---
 
-# 버리고 비웠더니 행복이 찾아왔다
+# 버리고 비웠더니 행복이 찾아왔다 / 야마구치 세이코 / 나라원
 > 미니멀리스트 가족의 심플 라이프 노하우
 
 - <img src="http://image.kyobobook.co.kr/images/book/xlarge/467/x9788970342467.jpg" height="300"/>
-- 야마구치 세이코 지음 / 은영미 옮김 / 나라원 / 2016년 08월 10일 출간
 
 # 왜 이 책을 선택했나?
 - 물건 좀 버리면서 마음과 생각도 비워보자.

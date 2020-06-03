@@ -1,8 +1,8 @@
 ---
-title: 엘리트 마인드
-author: jehyunpark
-category: [Book, Review]
-tags: [self help]
+layout: post
+title: "엘리트 마인드"
+excerpt: "엘리트 마인드 / 스탠 비첨 지음 / 비즈페이퍼"
+categories: [book]
 ---
 
 # 엘리트 마인드 / 스탠 비첨 지음 / 비즈페이퍼

@@ -1,10 +1,9 @@
 ---
-title: Tribute Page - Torres
-author: jehyunpark
-category: [Dev, Bootstrap]
-tags: [torres, freecodecamp, codepen, bootstrap]
+layout: post
+title: "Tribute Page - Torres"
+excerpt: ""
+categories: [bootstrap]
 ---
-
 # [Tribute Page - Torres](http://codepen.io/jehyunpark/full/GZLPKZ)
 
 <p data-height="265" data-theme-id="dark" data-slug-hash="GZLPKZ" data-default-tab="result" data-user="jehyunpark" data-embed-version="2" data-preview="true" class="codepen">See the Pen <a href="http://codepen.io/jehyunpark/pen/GZLPKZ/">Tribute Page - Torres</a> by jehyunpark (<a href="http://codepen.io/jehyunpark">@jehyunpark</a>) on <a href="http://codepen.io">CodePen</a>.</p>

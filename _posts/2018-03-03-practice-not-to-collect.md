@@ -1,8 +1,8 @@
 ---
-title: 모으지 않는 연습
-author: jehyunpark
-category: [Book, Review]
-tags: [minimalist, minimal life, minimalism]
+layout: post
+title: "모으지 않는 연습"
+excerpt: "모으지 않는 연습 / 나토리 호겐 지음 / 세종서적"
+categories: [book]
 ---
 
 # 모으지 않는 연습 / 나토리 호겐 지음 / 세종서적

@@ -1,9 +1,10 @@
 ---
-title: Linux 폴더, 파일 복사하기
-author: jehyunpark
-category: [Dev, Linux]
-tags: [linux]
+layout: post
+title: "Linux 폴더, 파일 복사하기"
+excerpt: ""
+categories: [linux]
 ---
+
 - 폴더 복사(하위 폴더, 파일 포함)
 
 ```

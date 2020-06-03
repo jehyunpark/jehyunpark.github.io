@@ -1,8 +1,8 @@
 ---
-title: Linux 포트 열기, 닫기, 포워딩 설정
-author: jehyunpark
-category: [Dev, Linux]
-tags: [linux]
+layout: post
+title: "Linux 포트 열기, 닫기, 포워딩 설정"
+excerpt: ""
+categories: [linux]
 ---
 
 - iptables 포트 열기

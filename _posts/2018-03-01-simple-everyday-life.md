@@ -1,8 +1,8 @@
 ---
-title: 일상을 심플하게
-author: jehyunpark
-category: [Book, Review]
-tags: [minimalist, minimal life, minimalism]
+layout: post
+title: "일상을 심플하게"
+excerpt: "일상을 심플하게 / 마스노 순묘 / 나무생각"
+categories: [book]
 ---
 
 # 일상을 심플하게 / 마스노 순묘 / 나무생각

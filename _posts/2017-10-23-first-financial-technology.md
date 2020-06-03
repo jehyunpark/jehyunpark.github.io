@@ -1,8 +1,8 @@
 ---
-title: 난생처음 재테크
-author: jehyunpark
-category: [Book, Review]
-tags: [economy, money management]
+layout: post
+title: "난생처음 재테크"
+excerpt: "난생처음 재테크 / 정환용 / 매일경제신문사"
+categories: [book]
 ---
 
 # 난생처음 재테크 / 정환용 / 매일경제신문사

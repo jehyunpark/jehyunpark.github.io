@@ -1,8 +1,8 @@
 ---
-title: 일단 오늘은 나한테 잘합시다
-author: jehyunpark
-category: [Book, Review]
-tags: [essay]
+layout: post
+title: "일단 오늘은 나한테 잘합시다"
+excerpt: "일단 오늘은 나한테 잘합시다 / 도대체 / 예담"
+categories: [book]
 ---
 
 # 일단 오늘은 나한테 잘합시다 / 도대체 / 예담

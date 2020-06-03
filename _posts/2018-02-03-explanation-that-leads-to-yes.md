@@ -1,8 +1,8 @@
 ---
-title: 예스를 이끌어내는 똑똑한 설명법
-author: jehyunpark
-category: [Book, Review]
-tags: [explain, self help]
+layout: post
+title: "예스를 이끌어내는 똑똑한 설명법"
+excerpt: "예스를 이끌어내는 똑똑한 설명법 / 쓰루노 미쓰시게 / 매경출판"
+categories: [book]
 ---
 
 # 예스를 이끌어내는 똑똑한 설명법 / 쓰루노 미쓰시게 / 매경출판

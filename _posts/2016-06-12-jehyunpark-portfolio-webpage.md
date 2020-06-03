@@ -1,10 +1,9 @@
 ---
-title: Jehyun Park's Portfolio
-author: jehyunpark
-category: [Dev, Bootstrap]
-tags: [portfolio, freecodecamp, codepen]
+layout: post
+title: "Jehyun Park's Portfolio"
+excerpt: ""
+categories: [bootstrap]
 ---
-
 # [Portfolio - Webpage](http://codepen.io/jehyunpark/full/NNQKGX)
 
 <p data-height="265" data-theme-id="dark" data-slug-hash="NNQKGX" data-default-tab="result" data-user="jehyunpark" data-embed-version="2" data-preview="true" class="codepen">See the Pen <a href="http://codepen.io/jehyunpark/pen/NNQKGX/">Portpolio Webpage</a> by jehyunpark (<a href="http://codepen.io/jehyunpark">@jehyunpark</a>) on <a href="http://codepen.io">CodePen</a>.</p>

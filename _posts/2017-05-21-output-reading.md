@@ -1,13 +1,12 @@
 ---
-title: 아웃풋 독서법
-author: jehyunpark
-category: [Book, Review]
-tags: [reading skill]
+layout: post
+title: "아웃풋 독서법"
+excerpt: "아웃풋 독서법 / 이세훈 / 북포스"
+categories: [book]
 ---
 
-# **아웃풋 독서법**
+# 아웃풋 독서법 / 이세훈 / 북포스
 - <img src="http://image.kyobobook.co.kr/images/book/xlarge/051/x9791158150051.jpg" alt="아웃풋 독서법" height="300"/>
-- 이세훈, 북포스
 
 
 

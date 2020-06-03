@@ -1,8 +1,8 @@
 ---
-title: 왜 출근하는가
-author: jehyunpark
-category: [Book, Review]
-tags: [self help]
+layout: post
+title: "왜 출근하는가"
+excerpt: "왜 출근하는가 / 신현만 / 21세기북스"
+categories: [book]
 ---
 
 # 왜 출근하는가 / 신현만 / 21세기북스

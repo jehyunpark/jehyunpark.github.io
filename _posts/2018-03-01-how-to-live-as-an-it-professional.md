@@ -1,8 +1,8 @@
 ---
-title: IT 전문가로 사는 법
-author: jehyunpark
-category: [Book, Review]
-tags: [it, career, development, programmer]
+layout: post
+title: "IT 전문가로 사는 법"
+excerpt: "IT 전문가로 사는 법 / 장동인 / 한빛미디어"
+categories: [book]
 ---
 
 # IT 전문가로 사는 법 / 장동인 / 한빛미디어

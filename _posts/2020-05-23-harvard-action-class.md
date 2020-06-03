@@ -1,8 +1,8 @@
 ---
-title: 하버드 행동력 수업
-author: jehyunpark
-category: [Book, Review]
-tags: [self help]
+layout: post
+title: "하버드 행동력 수업"
+excerpt: "하버드 행동력 수업 / 가오 위안 / 가나출판사"
+categories: [book]
 ---
 
 # 하버드 행동력 수업 / 가오 위안 / 가나출판사

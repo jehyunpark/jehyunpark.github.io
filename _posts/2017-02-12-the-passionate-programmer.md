@@ -1,9 +1,11 @@
 ---
-title: 프로그래머 열정을 말하다.
-author: jehyunpark
-category: [Book, Review]
-tags: [career, developer, programmer]
+layout: post
+title: "프로그래머 열정을 말하다."
+excerpt: "프로그래머 열정을 말하다. / 채드 파울러 지음 / 인사이트 / 북포스"
+categories: [book]
 ---
+
+# 프로그래머 열정을 말하다. / 채드 파울러 지음 / 인사이트 / 북포스
 
 - 프로그래머가 커리어를 발전시키는 것에 도움을 주는 책.
 - 초판 발행일이 2012년이지만 지금도 대부분 적용되고 도움되는 내용이 담겨있다.

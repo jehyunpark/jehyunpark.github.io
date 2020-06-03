@@ -1,10 +1,9 @@
 ---
-title: Github에서 프로젝트 시작하기
-author: jehyunpark
-category: [Dev, GitHub]
-tags: [github, git]
+layout: post
+title: "Github에서 프로젝트 시작하기"
+excerpt: ""
+categories: [github]
 ---
-
 ## Local에 프로젝트 설정
 
 ### 1. git 초기화

@@ -1,14 +1,13 @@
 ---
-title: 9등급 꼴찌, 1년 만에 통역사 된 비법
-author: jehyunpark
-category: [Book, Review]
-tags: [english]
+layout: post
+title: "9등급 꼴찌, 1년 만에 통역사 된 비법"
+excerpt: "9등급 꼴찌, 1년 만에 통역사 된 비법 / 장동완 / 리더스북"
+categories: [book]
 ---
 
-# 9등급 꼴찌, 1년 만에 통역사 된 비법
+# 9등급 꼴찌, 1년 만에 통역사 된 비법 / 장동완 / 리더스북
 
 - <img src="http://image.kyobobook.co.kr/images/book/xlarge/709/x9788901215709.jpg" height="300"/>
-- 장동완 지음 / 리더스북 / 2017년 04월 10일 출간
 
 # 왜 이 책을 선택했나?
 - 아오... 영어 좀 술술 해보고 싶다.

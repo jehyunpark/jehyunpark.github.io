@@ -1,8 +1,8 @@
 ---
-title: 아날로그의 반격
-author: jehyunpark
-category: [Book, Review]
-tags: [analog, culture]
+layout: post
+title: "아날로그의 반격"
+excerpt: "아날로그의 반격 / 데이비드 색스 / 어크로스"
+categories: [book]
 ---
 
 # 아날로그의 반격 / 데이비드 색스 / 어크로스
